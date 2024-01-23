@@ -1,4 +1,3 @@
-// components/TodoList.js
 import { useState } from 'react';
 
 const TodoList = () => {
